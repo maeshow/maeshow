@@ -1,8 +1,5 @@
 ### 👋 Hi! I'm maeshow
 <p align="left"> 
-  <a href="https://github.com/maeshow/maeshow/">
-    <img src="https://komarev.com/ghpvc/?username=maeshow" alt="maeshow" />
-  </a>
   <a href="http://twitter.com/maeshowneco">
     <img height="20" src="https://img.shields.io/twitter/follow/maeshowneco?label=Twitter&logo=twitter&style=flat" />
   </a>
@@ -11,9 +8,9 @@
   </a>
 </p>
 
-[![](https://raw.githubusercontent.com/maeshow/maeshow/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/maeshow/maeshow/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/maeshow/maeshow/main/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/maeshow/maeshow/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/maeshow/maeshow/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/maeshow/maeshow/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
@@ -43,7 +40,7 @@
   </a>
 </p>
 
-<h3 align="left">In the process of learning</h3>
+<h3 align="left">Learning</h3>
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
