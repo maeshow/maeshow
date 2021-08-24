@@ -6,7 +6,12 @@
   <a href="https://discord.gg/84ABhPK">
     <img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat" alt="Discord">
   </a>
+  <a href="https://www.youtube.com/channel/UCz3-ZMWk43Dt4Curkto-MYA">
+    <img src="https://img.shields.io/youtube/channel/views/UCz3-ZMWk43Dt4Curkto-MYA?label=YouTube&style=flat&logo=youtube" alt="YouTube Channel Views">
+  </a>
 </p>
+
+I'm working on developing Minecraft plugins on the DekitateServer <a> <img src="gifs/parrot.gif" alt="parrot" width="25" height="25"/> </a>
 
 [![](https://raw.githubusercontent.com/maeshow/maeshow/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/maeshow/maeshow/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
