@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**maeshow/maeshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Hi! I'm maeshow
+<p align="left"> 
+  <a href="https://github.com/maeshow/maeshow/">
+    <img src="https://komarev.com/ghpvc/?username=maeshow" alt="maeshow" />
+  </a>
+  <a href="http://twitter.com/maeshowneco">
+    <img height="20" src="https://img.shields.io/twitter/follow/maeshowneco?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://discord.gg/84ABhPK">
+    <img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat" alt="Discord">
+  </a>
+</p>
