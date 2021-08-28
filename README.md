@@ -48,6 +48,12 @@ I'm working on developing Minecraft plugins on the DekitateServer <a> <img src="
   </a>
 </p>
 
+<h3 align="left">Certification</h3>
+<p aliggn="left">
+  <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">
+  <img src="" alt="AWS-CP" width="25" height="25"/>
+</p>
+
 <h3 align="left">Learning</h3>
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
