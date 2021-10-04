@@ -51,7 +51,11 @@ I'm working on developing Minecraft plugins on the DekitateServer <a> <img src="
 <h3 align="left">Certification</h3>
 <p aliggn="left">
   <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">
-  <img src="icons/aws-certified-cloud-practitioner.png" alt="AWS-CP" width="50" height="50"/>
+    <img src="icons/aws-certified-cloud-practitioner.png" alt="AWS-CP" width="60" height="60"/>
+  </a>
+  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">
+    <img src="icons/aws-certified-solutions-architect-associate.png" alt="AWS-CP" width="60" height="60"/>
+  </a>
 </p>
 
 <h3 align="left">Learning</h3>
